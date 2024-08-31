@@ -22,11 +22,31 @@ that the presence of a picture will serve as a distraction, leading to more erro
 in participants’ evaluations or decisions regarding these resumes. 
 
 ## Instruction for a new student
->If a fellow student wants to reproduce all your results. What scripts, in which order, with which data need to be run?
->
->Be as specific as possible.
->
->Optional: Add a pipeline plot in which the different steps are displayed together with the corresponding scripts.
+
+For computing fixation durations for resume sections, run the notebook AnalysisV2.ipynb
+
+Update the following file paths to point to the subject_files.txt and resume_names.txt in the data folder.
+
+  subjects_to_include = "data/subject_files.txt"
+  
+  resumes_to_include = "data/resume_names.txt"
+  
+In the subject_files.txt, update the file paths to point to the .tsv files in data/subjects_tsv directory.
+
+
+
+
+To create a randomized data for each participant run the sorting_algorithm.py script. There you need to specify the path to a folder where all of the resumes are saved. For each participant a separate cab will be created.
+
+
+
+
+To plot the eye movement and/or bpogx/bpogy line Graph over time and/or heatmap, run the plot_eyemovement.py script
+
+
+
+To compute the p value using the two sample t test and the effect size using Cohen's d for two sample groups, run the inferential_statistics.py script
+
 
 ## Overview of Folder Structure 
 
