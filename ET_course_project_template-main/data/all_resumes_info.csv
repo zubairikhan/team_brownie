@@ -1,0 +1,25 @@
+Qualified,Picture,Name,Sorting Method,Filename
+qualified,True,hannah,goodSort,qualified_pic_ goodSort_hannah.png
+unqualified,True,lea,goodSort,unqualified_pic_goodSort_lea.png
+unqualified,True,tian,badSort,unqualified_pic_badSort_tian.png
+qualified,False,viktor,badSort,qualified_noPic_badSort_viktor.png
+unqualified,False,kare,goodSort,unqualified_noPic_goodSort_kare.png
+qualified,False,hannah,goodSort,qualified_noPic_ goodSort_hannah.png
+qualified,True,viktor,badSort,qualified_pic_badSort_viktor.png
+unqualified,False,hans,goodSort,unqualified_noPic_goodSort_hans.png
+unqualified,True,maria,badSort,unqualified_pic_ badSort_maria.png
+unqualified,False,maria,badSort,unqualified_noPic_ badSort_maria.png
+unqualified,True,kare,goodSort,unqualified_pic_goodSort_kare.png
+unqualified,True,hans,goodSort,unqualified_pic_goodSort_hans.png
+unqualified,False,tian,badSort,unqualified_noPic_badSort_tian.png
+qualified,False,emilia,goodSort,qualified_noPic_goodSort_emilia.png
+qualified,False,aisha,goodSort,qualified_noPic_ goodSort_aisha.png
+unqualified,False,leila,badSort,unqualified_noPic_ badSort_leila.png
+unqualified,True,leila,badSort,unqualified_pic_ badSort_leila.png
+unqualified,False,lea,goodSort,unqualified_noPic_goodSort_lea.png
+qualified,True,rahul,badSort,qualified_pic_badSort_rahul.png
+qualified,False,rahul,badSort,qualified_noPic_badSort_rahul.png
+qualified,True,aisha,goodSort,qualified_pic_ goodSort_aisha.png
+qualified,True,emilia,goodSort,qualified_pic_goodSort_emilia.png
+qualified,True,david,badSort,qualified_pic_badSort_david.png
+qualified,False,david,badSort,qualified_noPic_badSort_david.png
