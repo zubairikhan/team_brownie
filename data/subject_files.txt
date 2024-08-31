@@ -1,1 +1,10 @@
-data/subject-0.tsv
+data/subjects_tsv/subject-0.tsv
+data/subjects_tsv/subject-2.tsv
+data/subjects_tsv/subject-3.tsv
+data/subjects_tsv/subject-4.tsv
+data/subjects_tsv/subject-5.tsv
+data/subjects_tsv/subject-6.tsv
+data/subjects_tsv/subject-9.tsv
+data/subjects_tsv/subject-10.tsv
+data/subjects_tsv/subject-11.tsv
+data/subjects_tsv/subject-12.tsv
