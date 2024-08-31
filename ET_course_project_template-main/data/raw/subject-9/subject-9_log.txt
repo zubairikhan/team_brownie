@@ -1,0 +1,78 @@
+pygaze initiation report start
+display resolution: 1920x1080
+display size in cm: 33.8x27.1
+samplerate: 60.0 Hz
+sampletime: 16.666666666666668 ms
+fixation threshold: 1.5 degrees
+speed threshold: 35 degrees/second
+acceleration threshold: 9500 degrees/second**2
+pygaze initiation report end
+pygaze calibration report start
+accuracy (degrees): LX=0.20525616474292183, LY=0.2928658311636133, RX=0.39887619549521514, RY=0.3577828351912705
+accuracy (in pixels): LX=9.971199999999962, LY=14.227199999999996, RX=19.37706666666663, RY=17.380800000000015
+precision (RMS noise in pixels): X=16.057404782548012, Y=19.60023653212732
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+start_trial
+fixation_cross displayed
+qualified_pic_goodSort_emilia.png displayed
+qualified_pic_goodSort_emilia.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_pic_badSort_rahul.png displayed
+qualified_pic_badSort_rahul.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_pic_ goodSort_aisha.png displayed
+qualified_pic_ goodSort_aisha.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_noPic_badSort_viktor.png displayed
+qualified_noPic_badSort_viktor.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_noPic_ goodSort_hannah.png displayed
+qualified_noPic_ goodSort_hannah.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_noPic_badSort_david.png displayed
+qualified_noPic_badSort_david.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_pic_ badSort_maria.png displayed
+unqualified_pic_ badSort_maria.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_pic_goodSort_kare.png displayed
+unqualified_pic_goodSort_kare.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_pic_goodSort_lea.png displayed
+unqualified_pic_goodSort_lea.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_noPic_goodSort_hans.png displayed
+unqualified_noPic_goodSort_hans.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_noPic_badSort_tian.png displayed
+unqualified_noPic_badSort_tian.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_noPic_ badSort_leila.png displayed
+unqualified_noPic_ badSort_leila.png hidden
+stop_trial

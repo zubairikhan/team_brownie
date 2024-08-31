@@ -1,0 +1,96 @@
+pygaze initiation report start
+display resolution: 1920x1080
+display size in cm: 33.8x27.1
+samplerate: 60.0 Hz
+sampletime: 16.666666666666668 ms
+fixation threshold: 1.5 degrees
+speed threshold: 35 degrees/second
+acceleration threshold: 9500 degrees/second**2
+pygaze initiation report end
+pygaze calibration report start
+accuracy (degrees): LX=0.2828971969737426, LY=0.4328279742011585, RX=0.3909275922664579, RY=0.5733842815606137
+accuracy (in pixels): LX=13.742933333333314, LY=21.02639999999998, RX=18.990933333333338, RY=27.854399999999995
+precision (RMS noise in pixels): X=20.100039491626077, Y=30.051968407153662
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+start_trial
+pygaze calibration report start
+accuracy (degrees): LX=0.19375055460276266, LY=0.43569343090212437, RX=0.38728265394010764, RY=0.46202601613402416
+accuracy (in pixels): LX=9.412266666666678, LY=21.16560000000001, RX=18.81386666666663, RY=22.444799999999997
+precision (RMS noise in pixels): X=19.020570204978213, Y=28.912354475700305
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+fixation_cross displayed
+qualified_pic_ goodSort_hannah.png displayed
+qualified_pic_ goodSort_hannah.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_pic_badSort_rahul.png displayed
+qualified_pic_badSort_rahul.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_pic_ goodSort_aisha.png displayed
+qualified_pic_ goodSort_aisha.png hidden
+stop_trial
+start_trial
+pygaze calibration report start
+accuracy (degrees): LX=0.45741492830945774, LY=0.44831626831734755, RX=0.4318563539498892, RY=0.46585486699367995
+accuracy (in pixels): LX=22.220800000000008, LY=21.77879999999999, RX=20.979199999999985, RY=22.630799999999986
+precision (RMS noise in pixels): X=27.687012659947076, Y=26.62726518173524
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+fixation_cross displayed
+qualified_noPic_badSort_viktor.png displayed
+qualified_noPic_badSort_viktor.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_noPic_goodSort_emilia.png displayed
+qualified_noPic_goodSort_emilia.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_noPic_badSort_david.png displayed
+qualified_noPic_badSort_david.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_pic_ badSort_maria.png displayed
+unqualified_pic_ badSort_maria.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_pic_goodSort_lea.png displayed
+unqualified_pic_goodSort_lea.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_pic_goodSort_kare.png displayed
+unqualified_pic_goodSort_kare.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_noPic_goodSort_hans.png displayed
+unqualified_noPic_goodSort_hans.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_noPic_badSort_tian.png displayed
+unqualified_noPic_badSort_tian.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+unqualified_noPic_ badSort_leila.png displayed
+unqualified_noPic_ badSort_leila.png hidden
+stop_trial

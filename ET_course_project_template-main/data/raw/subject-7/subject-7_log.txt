@@ -1,0 +1,34 @@
+pygaze initiation report start
+display resolution: 1920x1080
+display size in cm: 33.8x27.1
+samplerate: 60.0 Hz
+sampletime: 16.666666666666668 ms
+fixation threshold: 1.5 degrees
+speed threshold: 35 degrees/second
+acceleration threshold: 9500 degrees/second**2
+pygaze initiation report end
+pygaze calibration report start
+accuracy (degrees): LX=0.37647958834242373, LY=0.4229223910027743, RX=1.0639452513982528, RY=0.6289155956844809
+accuracy (in pixels): LX=18.289066666666674, LY=20.54520000000002, RX=51.68426666666667, RY=30.552000000000007
+precision (RMS noise in pixels): X=42.08712406454163, Y=32.218927643456425
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+start_trial
+fixation_cross displayed
+qualified_pic_badSort_viktor.png displayed
+qualified_pic_badSort_viktor.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_pic_badSort_david.png displayed
+qualified_pic_badSort_david.png hidden
+stop_trial
+start_trial
+fixation_cross displayed
+qualified_pic_goodSort_emilia.png displayed
+qualified_pic_goodSort_emilia.png hidden
+stop_trial
+start_trial
