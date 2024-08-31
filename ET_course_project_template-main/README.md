@@ -1,12 +1,25 @@
-# **Course project:** Title
-**Authors:** *Author 1*, *Author 2* & *Author 3*
+# **Course project:** CV Reading
+**Authors:** 
+Milana Shkhanukova, Zubair Irfan Khan, Kevin Van Le, Katarina Baricova
 
 **Course:** *Acquisition and analysis of eye-tracking data*
 
-**Semester:** *Summer semester 2023*
+**Semester:** *Summer semester 2024*
 
 ## Project Description
-> Please provide a short description of the main goals. 
+Research Question: Does a picture in CVs influence the reader’s attention?
+
+To fully address the primary research objective, our study aims to investigate the following key questions:
+
+• Is there a reduction in time spent examining textual content when an
+image is included?
+
+• Which sections of resumes receive the most attention from viewers, and how does this differ between CVs with and without photographs?
+
+Our main hypothesis is that participants will generally take longer to review
+resumes that include a photograph of the applicant. Additionally, we anticipate
+that the presence of a picture will serve as a distraction, leading to more errors
+in participants’ evaluations or decisions regarding these resumes. 
 
 ## Instruction for a new student
 >If a fellow student wants to reproduce all your results. What scripts, in which order, with which data need to be run?
