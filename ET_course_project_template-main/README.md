@@ -39,6 +39,9 @@ In the subject_files.txt, update the file paths to point to the .tsv files in da
 To create a randomized data for each participant run the sorting_algorithm.py script. There you need to specify the path to a folder where all of the resumes are saved. For each participant a separate cab will be created.
 
 
+To get the results on how good the participants choose the qualified and unqualified resumes you need to run the Jupyter notebook analyze_answers.ipynb. Run every cell and the necessary plots and statistics will be created
+
+
 
 
 To plot the eye movement and/or bpogx/bpogy line Graph over time and/or heatmap, run the plot_eyemovement.py script
